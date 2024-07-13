@@ -1,0 +1,19 @@
+{
+  "subtitle": "Mantente informado",
+  "title": "Últimas noticias!",
+  "categorieTitle": "Personaliza tus noticias",
+  "home": "Inicio",
+  "categories": "Categorías",
+  "setting": "Configuración",
+  "sports": "Deportes",
+  "technology": "Tecnología",
+  "health": "Salud",
+  "business": "Negocios",
+  "entertainment": "Entretenimiento",
+  "science": "Ciencia",
+  "searchHint": "Busca por título o autor",
+  "language": "Idioma",
+  "theme": "Tema",
+  "light": "Claro",
+  "dark": "Oscuro"
+}
